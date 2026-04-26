@@ -1,5 +1,4 @@
 
-!pip install transformers[torch] datasets pandas scikit-learn
 
 import pandas as pd
 from datasets import Dataset
